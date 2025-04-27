@@ -1,0 +1,45 @@
+# ===== Visual Studio Code =====
+.vscode/
+*.code-workspace
+
+# ===== Keil μVision =====
+# Project/workspace files (if you want to keep the .uvprojx under source control, remove these)
+*.uvprojx
+*.uvoptx
+*.uvguix.*
+*.uvguix.deevr
+*.uvguix.Hafez
+*.uvguix.TED
+*.uvguix.yaser
+
+# ===== Build output =====
+/Objects/
+/Listings/
+/Objects/**
+
+# Keil build artifacts
+*.axf
+*.o
+*.obj
+*.hex
+*.bin
+*.map
+*.dep
+*.lst
+*.build_log.htm
+
+# CMSIS‑PACK generated files
+RTE/**
+
+# ===== Miscellaneous =====
+# Editor backups/swap
+*~
+*.swp
+*.bak
+*.tmp
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Ignore compiled compile_commands.json if regenerated
+compile_commands.json
