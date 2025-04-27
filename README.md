@@ -10,6 +10,8 @@
 - **Bare-metal firmware** in C/Assembly (I2C/UART comms, real-time motor control)  
 - **MATLAB 3D room geometry maps** from raw sensor data  
 
+![Scan-4-Less Demo](./Deliverable2_Demo_Scan.png)
+
 ---
 
 ➡ **Sequel Alert!** Check out **[Scan-4-Even-Less](https://github.com/yourusername/Scan-4-Even-Less)** for optimizations!  
