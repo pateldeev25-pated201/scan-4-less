@@ -14,7 +14,7 @@
 
 ---
 
-➡ **Sequel Alert!** Check out **[Scan-4-Even-Less](https://github.com/yourusername/Scan-4-Even-Less)** for optimizations!  
+➡ **Sequel Alert!** Check out **[Scan-4-Even-Less](https://github.com/pateldeev25-pated201/Scan-4-Even-Less)** for optimizations!  
 
 ## 🛠️ Hardware/Software  
 | Hardware              | Software/Protocols  |  
